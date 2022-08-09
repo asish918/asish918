@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Asish Mahapatra
 - 👀 I’m interested in Learning New things about Software Development
+- 🏫 Currently 3rd year Undergrad at KIIT (Information Technology)
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Anything and Everything
 - 📫 How to reach me - asishmahapatra918@gmail.com
