@@ -3,9 +3,15 @@
 </div>
 
 <div align='center'>
-<img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logoColor=white&color=0A66C2&logo=LinkedIn" />
+<a href="https://www.linkedin.com/in/asish-mahapatra-3b963b172/">
+<img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logoColor=white&color=0A66C2&logo=LinkedIn&link=https://google.co.in" />
+</a>
+<a href="mailto:asishmahapatra918@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logoColor=white&color=EA4335&logo=Gmail" />
+</a>
+<a href="https://leetcode.com/asishmahapatra918/">
 <img src="https://img.shields.io/badge/-leetcode-white?style=for-the-badge&logoColor=white&color=FFA116&logo=LeetCode" />
+</a>
 </div>
 
 <br>
@@ -90,6 +96,7 @@ const asish = {
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
 
 
 <!---
