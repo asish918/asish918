@@ -29,6 +29,7 @@
 <div align="center">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝔸 𝕃𝕚𝕥𝕥𝕝𝕖 𝕄𝕠𝕣𝕖 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
+
 </div>
 
 ```javascript
@@ -56,7 +57,7 @@ const asish = {
 
 <div align="center">
 
-###  ▁ ▂ ▄ ▅ ▆ ▇ █ <b>My Tech-Stack</b> █ ▇ ▆ ▅ ▄ ▂ ▁ 
+### ▁ ▂ ▄ ▅ ▆ ▇ █ <b>My Tech-Stack</b> █ ▇ ▆ ▅ ▄ ▂ ▁
 
 </div>
 <br>
@@ -77,27 +78,22 @@ const asish = {
 
 <br />
 
-
 <div align="center">
 <img src="https://media0.giphy.com/media/ek2O7qoqZxR2H6tHN5/giphy.gif?cid=ecf05e47pyds3m0njau4tqz7mqh3pxfiiclckrqzs4jknt3w&rid=giphy.gif&ct=g" width="50" height="40">
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/asishmahapatra918?border=0&radius=20)](https://leetcode.com/asishmahapatra918/)
+
 </div>
 
 ---
 
 <h2 align="center">🤝 Collaboration over Competition</h2>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!!</p>
-</p>
-
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
-
 
 <!---
 asish918/asish918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
