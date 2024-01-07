@@ -1,23 +1,11 @@
-<div align="center">
-   <h1>नमस्ते, I'm <a href="https://asish918.netlify.app">Asish</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>
-
-<div align='center'>
-<a href="https://www.linkedin.com/in/asish-mahapatra-3b963b172/">
-<img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logoColor=white&color=0A66C2&logo=LinkedIn&link=https://google.co.in" />
-</a>
-<a href="mailto:asishmahapatra918@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logoColor=white&color=EA4335&logo=Gmail" />
-</a>
-<a href="https://leetcode.com/asishmahapatra918/">
-<img src="https://img.shields.io/badge/-leetcode-white?style=for-the-badge&logoColor=white&color=FFA116&logo=LeetCode" />
-</a>
-</div>
-
-<br>
+![Banner](banner.png)
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Asish Mahapatra | 💻 Full Stack Developer📱 | 🇮🇳 India ❤️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+   <h1>नमस्ते, I'm <a href="https://asish918.netlify.app">Asish</a> <img src="https://raw.githubusercontent.com/asish918/asish918/main/wavy.gif" width="25px"> </h1>
+</div>
+
+<div align="center">
+<h3><img src="https://raw.githubusercontent.com/asish918/asish918/main/keytap.gif" width="30"> 🙎 Asish Mahapatra | 💻 Full Stack Developer📱 | 🇮🇳 India ❤️ <img src="https://raw.githubusercontent.com/asish918/asish918/main/keytap.gif" width="30"></h3>
 </div>
 
 <div align="center">
@@ -28,44 +16,29 @@
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝔸 𝕃𝕚𝕥𝕥𝕝𝕖 𝕄𝕠𝕣𝕖 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
+### <img src="https://raw.githubusercontent.com/asish918/asish918/main/flying.gif" width="50"> 𝔸 𝕃𝕚𝕥𝕥𝕝𝕖 𝕄𝕠𝕣𝕖 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
 
+<div style="display: flex" height="400">
+<img src="./busy.gif" width="300" height="400" >
+<div align="left" style="padding-left: 20px; display: flex; flex-direction: column;">
+   <b><u>Knowledge++</u></b>
+   <img style="padding-top: 10px" src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,mui,express,c,netlify,vercel,ts,nodejs,graphql,nextjs,sass,dart,flutter,kotlin,mongodb,mysql,postgres,firebase,supabase,aws,mongodb,java,spring,dart,cpp,git,github,vim,linux, docker" />
+
+<div style="margin-top: 50px; padding: 10px; background-color: white; text-align: center; border-radius: 10px; color: black">
+My favorite part of programming is
+building. I love watching
+how code translates to beautiful UIs and Interactions with a User. My core stack
+is React, Next.js, Node.js, and MongoDB
+. I am also familiar with TypeScript and Prisma. I am always looking to
+learn new technologies. I am currently working at
+Kickdrum as an SDE Intern
 </div>
 
-```javascript
-const asish = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "ReactJS", "NextJS", "Dart"],
-  askMeAbout: ["Web Dev", "Tech", "App Dev", "India"],
-  technologies: {
-    backEnd: {
-      js: ["Node", "Mongoose", "Express"],
-    },
-    mobileApp: {
-      hybrid: ["Flutter"],
-    },
-    databases: ["MongoDB", "MySQL", "Redis"],
-    misc: ["Firebase", "Socket.IO", "Sanity.io", "Strapi", "GraphQL"],
-  },
-  currentFocus: "Get the hell out of college",
-  funFact:
-    "There are two ways to write error-free programs; only the third one works",
-};
-```
-
-<br>
-
-<div align="center">
-
-### ▁ ▂ ▄ ▅ ▆ ▇ █ <b>My Tech-Stack</b> █ ▇ ▆ ▅ ▄ ▂ ▁
-
 </div>
+</div>
+</div>
+
 <br>
-<p align="center">
-<a>
- <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,mui,express,mongodb,dart,flutter,c,netlify,vercel,cpp,ts,nodejs,graphql,nextjs,git,github,vim,sass,redis,firebase,linux" />
-</a>
-</p>
 
 ---
 
@@ -74,23 +47,33 @@ const asish = {
 
 ![Asish's GitHub stats](https://github-readme-stats.vercel.app/api?username=asish918&show_icons=true&theme=onedark)
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=asish918&theme=dark)](https://git.io/streak-stats)
 
-<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asish918&theme=dark&layout=compact&&size_weight=0.5&count_weight=0.5)
+
+</div>
 
 <div align="center">
-<img src="https://media0.giphy.com/media/ek2O7qoqZxR2H6tHN5/giphy.gif?cid=ecf05e47pyds3m0njau4tqz7mqh3pxfiiclckrqzs4jknt3w&rid=giphy.gif&ct=g" width="50" height="40">
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/asishmahapatra918?border=0&radius=20)](https://leetcode.com/asishmahapatra918/)
+## ℙ𝕚𝕟𝕟𝕖𝕕 ℝ𝕖𝕡𝕠𝕤
+
+<div style="display: flex;">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asish918&repo=NextJS-Hotel-Booking&theme=dark)](https://github.com/asish918/NextJS-Hotel-Booking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asish918&repo=Discord-Clone&theme=dark)](https://github.com/asish918/Discord-Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asish918&repo=NextJS-Music&theme=dark)](https://github.com/asish918/NextJS-Music)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asish918&repo=Collaborator&theme=dark)](https://github.com/asish918/Collaborator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asish918&repo=Web-Shop&theme=dark)](https://github.com/asish918/Web-Shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asish918&repo=ECommerce-Mobile&theme=dark)](https://github.com/asish918/ECommerce-Mobile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asish918&repo=JetNewsApp&theme=dark)](https://github.com/asish918/JetNewsApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asish918&repo=JetMusic&theme=dark)](https://github.com/asish918/JetMusic)
 
 </div>
 
----
+</div>
 
 <h2 align="center">🤝 Collaboration over Competition</h2>
-
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
