@@ -27,10 +27,9 @@
 My favorite part of programming is
 building. I love watching
 how code translates to beautiful UIs and Interactions with a User. My core stack
-is React, Next.js, Node.js, and MongoDB
-. I am also familiar with TypeScript and Prisma. I am always looking to
-learn new technologies. I am currently working at
-Kickdrum as an SDE Intern
+is React, Next.js, Node.js, SpringBoot, MongoDB and AWS. I am always looking forward to
+learning new technologies. I am currently working at
+Kickdrum as an Software Developer (SDE-1)
 </div>
 
 </div>
