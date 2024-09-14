@@ -19,9 +19,8 @@
 ### <img src="https://raw.githubusercontent.com/asish918/asish918/main/flying.gif" width="50"> 𝔸 𝕃𝕚𝕥𝕥𝕝𝕖 𝕄𝕠𝕣𝕖 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
 
 <div style="display: flex" height="400">
-<img src="./busy.gif" width="300" height="400" >
-<div align="left" style="padding-left: 20px; display: flex; flex-direction: column;">
-   <b><u>Knowledge++</u></b>
+<img src="./busy.gif" width="100%" height="500" >
+<div align="center" style="padding-left: 20px; display: flex; flex-direction: column;">
    <img style="padding-top: 10px" src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,mui,express,c,netlify,vercel,ts,nodejs,graphql,nextjs,sass,dart,flutter,kotlin,mongodb,mysql,postgres,firebase,supabase,aws,mongodb,java,spring,dart,cpp,git,github,vim,linux, docker" />
 
 <div style="margin-top: 50px; padding: 10px; background-color: white; text-align: center; border-radius: 10px; color: black">
